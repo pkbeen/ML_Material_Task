@@ -1,1 +1,1 @@
-# ML_Material_Task
+SKKU Machine Learning ANN Based material division
